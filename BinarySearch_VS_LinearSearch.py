@@ -3,7 +3,7 @@ Milton Perez 09/20/2021
 
 This code compares binary search against linear search
 
-For this to code run properly please be sure to have the following files in the same folder:
+For this to code run properly please be sure to have the following files in the same folder as this file:
     sortedLinearInput.txt
     sortedBinaryInput.txt
     keyLinear.txt
