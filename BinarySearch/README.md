@@ -1,4 +1,6 @@
 # Binary Search
+BinarySearch.py seeks compares binary search versus linear search.
+
 ## Overview
 Two functions **linear_search()** and **binary_search()** will look for a number in a given sorted
 (*sortedLinearInput.txt* or *sortedBinaryInput.txt*) list of distinct integers.
