@@ -7,14 +7,14 @@ All of the disks are initially piled on rod **A** in decreasing order of diamete
    - A larger disk cannot be stacked on a smaller disk.
 
 ## Overview
-The program **readHanoi.py** runs a recursive implementation of the Tower of Hanoi in python. The output of this code describes the moves to complete the puzzle. 
+The program **SolveHanoi.py** runs a recursive implementation of the Tower of Hanoi in python. The output of this code describes the moves to complete the puzzle. 
 
 ## Files Required:
-- readHanoi.py
+- SolveHanoi.py
 - HanoiTower.txt
 
 ## Description
-**readHanoi.py** reads in a file named **HanoiTower.txt**
+**SolveHanoi.py** reads in a file named **HanoiTower.txt**
 
 The length of the tower, as in how many elements are there, is obtained by  calling  the  **len()** function on the array that stores it. 
 
