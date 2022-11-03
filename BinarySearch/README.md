@@ -1,5 +1,5 @@
 # Binary Search
-BinarySearch.py seeks compares binary search versus linear search.
+BinarySearch.py seeks to compare binary search versus linear search.
 
 ## Overview
 Two functions **linear_search()** and **binary_search()** will look for a specified number in a given sorted
