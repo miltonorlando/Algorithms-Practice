@@ -28,11 +28,11 @@ problem, there is stack space B that lies in between **A** and **C**. This stack
 discs from **A** to **C** in such a way so  that  stack  **C**  ends up  looking  just like stack A did. For 
 example, the problem starts out looking like this: 
 
-<img src="https://i.imgur.com/iefhvrf.png" height="20%" width="20%" alt="Hanoi Tower Steps"/>
+<img src="https://i.imgur.com/iefhvrf.png" height="25%" width="25%" alt="Hanoi Tower Steps"/>
 
 And should end up looking like this: 
 
-<img src="https://i.imgur.com/ipdFP9m.png" height="20%" width="20%" alt="Hanoi Tower Steps"/>
+<img src="https://i.imgur.com/ipdFP9m.png" height="25%" width="25%" alt="Hanoi Tower Steps"/>
 
 The  input  will  be  a  set  of  numbers  always  starting  at  1  and  ascending  by  1  everytime.  The 
 number 1 will represent the top of the tower, which is the smallest disc. The total number of discs that can exist, **N**, can vary in size.
