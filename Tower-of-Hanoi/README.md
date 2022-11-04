@@ -1,5 +1,5 @@
 # Tower of Hanoi
-The Tower of Hanoi is a mathematical puzzle where we have three rods (**A**, **B**, and **C**) and **N** disks.
+The Tower of Hanoi is a mathematics puzzle where we have three rods (**A**, **B**, and **C**) and **N** disks.
 
 All of the disks are initially piled on rod **A** in decreasing order of diameter, with the smallest disk at the top. The goal of the puzzle is to transfer the complete stack to another rod (here referred to as **C**), while adhering to the following rules:
    - Only one disk can be moved at a time.
