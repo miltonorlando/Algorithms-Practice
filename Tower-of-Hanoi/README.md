@@ -4,7 +4,7 @@ The Tower of Hanoi is a mathematics puzzle where we have three rods (**A**, **B*
 ## Overview
 The program **SolveHanoi.py** runs a recursive implementation of the Tower of Hanoi in python. The output of this code describes the moves to complete the puzzle. 
 
-## Files Required:
+## Project Files:
 - SolveHanoi.py
 - HanoiTower.txt
 
