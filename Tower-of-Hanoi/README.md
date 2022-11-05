@@ -1,10 +1,4 @@
 # Tower of Hanoi
-The Tower of Hanoi is a mathematics puzzle where we have three rods (**A**, **B**, and **C**) and **N** disks.
-
-All of the disks are initially piled on rod **A** in decreasing order of diameter, with the smallest disk at the top. The goal of the puzzle is to transfer the complete stack to another rod (here referred to as **C**), while adhering to the following rules:
-   - Only one disk can be moved at a time.
-   - Each move consists of taking the upper disk from one of the stacks and placing it on top of another stack i.e. a disk can only be moved if it is the uppermost disk on a stack
-   - A larger disk cannot be stacked on a smaller disk.
 
 ## Overview
 The program **SolveHanoi.py** runs a recursive implementation of the Tower of Hanoi in python. The output of this code describes the moves to complete the puzzle. 
