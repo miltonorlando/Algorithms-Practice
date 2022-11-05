@@ -12,7 +12,7 @@ the number of steps until returning.
 The results of both functions will the be compared to determine which algorithm is faster at performing a search.
 
 ## Project Files:
-- BinarySearch.py
+- BinarySearch.py (main)
 - sortedLinearInput.txt
 - sortedBinaryInput.txt
 - keyLinear.txt
