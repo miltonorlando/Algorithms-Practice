@@ -5,7 +5,7 @@ The program **SolveHanoi.py** runs a recursive implementation of the Tower of Ha
 The Tower of Hanoi is a mathematics puzzle where we have three rods (**A**, **B**, and **C**) and **N** disks. The object of the game is to move all the disks from one side to the other. This is accomplished by only moving one disk taken from the top of a stack at a time, and not placing any larger disks over smaller disks. 
 
 ## Files Required:
-- SolveHanoi.py
+- SolveHanoi.py (main)
 - HanoiTower.txt
 
 ## Description
